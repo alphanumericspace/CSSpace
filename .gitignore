@@ -1,0 +1,31 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+*.paket
+
+# Ignore user-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Ignore ReSharper files
+_ReSharper*/
+
+# Ignore Rider files
+.idea/
+
+# Ignore .NET Core SDK files
+.vscode/
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore build cache directory
+**/bin/
+**/obj/
